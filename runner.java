@@ -4,6 +4,9 @@ public class Runner{
  interface partnerA{
   public abstract void Print_Quotient(float a, float b);
  }
+ //How to merge
+ //lambda notation
+ //how to use Github and more specifcally Gitkraken
  interface partnerB{
   public abstract boolean Perfect_Square(float a);
  }
