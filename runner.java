@@ -1,4 +1,6 @@
 public class Runner{
+	//I learned how to use lamda notations.
+	//I also learned how to collaborate using GitKraken to merge many interfaces.
  interface partnerA{
   public abstract void Print_Quotient(float a, float b);
  }
